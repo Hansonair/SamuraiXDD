@@ -1,14 +1,15 @@
-git init
+
 touch file.txt
 touch 3.txt
-touch file.odf
+
+touch file.pdf
+git init
 mkdir dir2
 
 mv *.txt dir2/
-git commit -m "Moved text files to dir2"
-nano question08.sh
-# Copy and paste the commands into the file, then save and exit.
+gir add dir2
 
-chmod +x question08.sh
+git commit -m "Moved text files to dir2"
+
 
 
