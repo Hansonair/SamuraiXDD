@@ -8,4 +8,4 @@ cd git-practice-04
 git fetch origin
 
 # Switch to the update1 branch
-git checkout update1
+git checkout -t origin/update1
