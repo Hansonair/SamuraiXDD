@@ -1,5 +1,4 @@
-# Clone the repository
-git clone https://github.com/ian-knight-uofa/git-practice-04.git
+
 
 # Change directory to the repository
 cd git-practice-04
